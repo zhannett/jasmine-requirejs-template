@@ -2,7 +2,7 @@
 
 I was playing around jasmine for a project, all basic setup and defining tests are easy as mocha and relatively easy compared to qunit. The problem is testing encapsulated code like immediately executed functions. So i've created this template to provide a boilerplate, which needed in my opinion because there are a lot of not working, not documented or simply bad examples out there.
 
-I'll try to keep this document like a walk-through guide. Boilerplate is here [https://github.com/isotluravioli/jasmine-requirejs-template](https://github.com/isotluravioli/jasmine-requirejs-template)
+I'll try to keep this document like a walk-through guide. Boilerplate is here [https://github.com/vngrs/jasmine-requirejs-template](https://github.com/vngrs/jasmine-requirejs-template)
 
 ### Setting up base project
 
